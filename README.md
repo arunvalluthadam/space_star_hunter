@@ -5,4 +5,4 @@ My first game
 
 Catching star with a space ship...........
 
-hop you like it !!!!
+hope you like it !!!!
